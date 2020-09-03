@@ -6,7 +6,7 @@ This repository consists of all the files, resources, and recorded session links
 #### Check your details here same will printed on certificates if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1UOggB7oICyuxT6Ebl53YERQdXB6MP33JLPd6WNUuDis/edit?usp=sharing)
 
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/17495a0112qise) or → Meeting Id → [906-283-421]
-
+### Join into Slack channel for doubt clarifications [Click Here to Join](https://join.slack.com/t/apssdc-community/shared_invite/zt-gxi128ev-AXD~7dgejDOFSMdROkN5RQ)
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
@@ -43,3 +43,19 @@ Discussed Concepts:
 [[DayNo_Recorded_Video_Link]]()
 *************************
 --->
+
+******************************
+## Day01 Introduction to Machine Learning (03-Sept-2020)
+
+### Discussed Concepts:
+
+1. What is MAchine Learning?
+2. Types of Data in the real world and Classification of Data based on Statistics
+3. Introduction to Machine Learning
+2. Machine Learning Classification
+4. Supervised Learning Classification
+5. Applications of Machine Learning
+
+### [[Day01_Slides]](Day01_03Sept2020/Intro_Machine_Learning_Using_Python_Slides.pdf)
+### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/8beacc82cebe6aa95669903b55e5a7f20f89bf9b859264126d8f969f9c3b3943)
+**********************************************
