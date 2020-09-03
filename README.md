@@ -2,11 +2,11 @@
 # Machine-Learning-Using-Python
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
-<!---
-#### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]]()
 
-#### Gotomeeting Link → [[Click Here to Join]](meetingLink) → Meeting Id → 
---->
+#### Check your details here same will printed on certificates if your details are missing update in last column  → [[GSheet]](https://docs.google.com/spreadsheets/d/1UOggB7oICyuxT6Ebl53YERQdXB6MP33JLPd6WNUuDis/edit?usp=sharing)
+
+#### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/17495a0112qise) or → Meeting Id → [906-283-421]
+
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
