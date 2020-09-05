@@ -76,3 +76,14 @@ Discussed Concepts:
 ### Day02 Jupyter Notebook [[.ipynb format]](Day02_04Sept2020/Linear_Regression_Model.ipynb), [[.pdf format]](Day02_04Sept2020/Linear_Regression_Model.pdf)
 ### [[Day02_Slides]](Day02_04Sept2020/Regression_Model_in_ML.pdf)
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/04735861ecc057435a59d704f7d46f7db78cde526294a26e0184b06912dade36)
+**********************
+
+## Day03 Multi Linear Regression & Polynomial Regression (05-Sept-2020)
+### Discussed Concepts:
+1. Non Linear regression
+2. Polynomial Regression with one variable to predict CO2 Emissions Dataset
+3. Polynomial regression with multiple variables on Boston Dataset
+
+### Day03_Polynomial_Regression_Jupyter_Notebook [[.ipynb format]](Day03_05Sept2020/Polynomial_Regression.ipynb), [[.pdf format]](Day03_05Sept2020/Polynomial_Regression.pdf)
+### [[Day03_Slides]](Day03_05Sept2020/Polynimial_Regression_Slides.pdf)
+### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/2384f48ff4243582d5867f919eb8f7576fb66fdcb4c8375f784af749b28ad169)
