@@ -52,6 +52,7 @@ Discussed Concepts:
 1. What is MAchine Learning?
 2. Types of Data in the real world and Classification of Data based on Statistics
 3. Introduction to Machine Learning
+4. ML Lifecycle
 2. Machine Learning Classification
 4. Supervised Learning Classification
 5. Applications of Machine Learning
@@ -59,3 +60,19 @@ Discussed Concepts:
 ### [[Day01_Slides]](Day01_03Sept2020/Intro_Machine_Learning_Using_Python_Slides.pdf)
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/8beacc82cebe6aa95669903b55e5a7f20f89bf9b859264126d8f969f9c3b3943)
 **********************************************
+
+## Day02 Sklearn Package, and Linear Regression using Machine Learning (04-Sept-2020)
+### Discussed Concepts:
+
+1. Day2 Agenda
+1. What is regression
+1. Types of regressions
+1. Correlation and types
+1. Linear regression with one variable
+1. Created ML model to predict the salary based on YearsOfExperience
+1. Linear regression with multiple variable
+1. Created ML model to predict the CO2 emissions of the cars based in few features
+
+### Day02 Jupyter Notebook [[.ipynb format]](Day02_04Sept2020/Linear_Regression_Model.ipynb), [[.pdf format]](Day02_04Sept2020/Linear_Regression_Model.pdf)
+### [[Day02_Slides]](Day02_04Sept2020/Regression_Model_in_ML.pdf)
+### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/04735861ecc057435a59d704f7d46f7db78cde526294a26e0184b06912dade36)
