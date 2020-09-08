@@ -89,3 +89,20 @@ Discussed Concepts:
 ### Day03_Polynomial_Regression_Jupyter_Notebook [[.ipynb format]](Day03_05Sept2020/Polynomial_Regression.ipynb), [[.pdf format]](Day03_05Sept2020/Polynomial_Regression.pdf)
 ### [[Day03_Slides]](Day03_05Sept2020/Polynimial_Regression_Slides.pdf)
 ### [[Day_03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/2384f48ff4243582d5867f919eb8f7576fb66fdcb4c8375f784af749b28ad169)
+
+-------
+## Day-04 (07-09-2020):
+
+### Topics Covered:
+- Introduction to categorical types of data
+- Types of classification
+- K-Nearest Neighbors Classifier
+- Evaluation Metrics for Classification 
+
+### Materials
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day04_07-09-2020/07-09-2020.ipynb)<br>
+Dataset Links Used in Class -->[Dataset](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB2/blob/master/Day04_06_08_2020/shirtsize.csv)<br>
+Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/5f439fa511d342065dd26930bceb2cbf483a28b57006fae5106cf08d5e50c8b2)<br>
+
+---------
+
