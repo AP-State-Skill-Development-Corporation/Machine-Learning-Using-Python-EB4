@@ -106,3 +106,15 @@ Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeti
 
 ---------
 
+## Day-05 (08-09-2020):
+
+### Topics Covered:
+- Introduction to Logistic Regression
+- Logistic Regression
+- Support Vector Machine
+
+### Materials
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day05_08-09-2020/08-09-2020%20Day-5.ipynb)<br>
+Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
+
+------
