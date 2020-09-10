@@ -127,8 +127,8 @@ Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeti
 - Decision Trees Classifier
 
 ### Materials
-Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/tree/master/Day6%20%209-9-2020)<br>
-Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day6_09-9-2020/Day6_9-9-2020(Desion_Tree).ipynb)<br>
+Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/8731a17b0edb1633dcdd7ac36fe4476e0d95c7ac02274dd3a81a8dfd4780353e)<br>
 
 ------
 ## Day-07 (09-09-2020):
@@ -138,8 +138,9 @@ Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeti
 - Random Forest Algorithm
 
 ### Materials
-Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day7%2010-9-2020/Day7%20%2010-9-2020(Random%20Forest).ipynb)<br>
-Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day7_10-9-2020/Day7_10-9-2020(Random_Forest).ipynb)<br>
+Recorded Video --> [Click Here for Recorded Video1](https://transcripts.gotomeeting.com/#/s/46fd143e85cbaf304af63b4a3308e7123099eb294f0ea43fc456fa1c2902403e)<br>
+Recorded Video --> [Click Here for Recorded Video1](https://transcripts.gotomeeting.com/#/s/f2a95eede80e3a5d8f5e0ae35dcea7e2242a5d04659ccef6fd91c4ad94fb24c6)<br>
 
 ------
 
