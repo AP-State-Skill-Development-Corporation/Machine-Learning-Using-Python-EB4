@@ -140,7 +140,7 @@ Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeti
 ### Materials
 Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day7_10-9-2020/Day7_10-9-2020(Random_Forest).ipynb)<br>
 Recorded Video --> [Click Here for Recorded Video1](https://transcripts.gotomeeting.com/#/s/46fd143e85cbaf304af63b4a3308e7123099eb294f0ea43fc456fa1c2902403e)<br>
-Recorded Video --> [Click Here for Recorded Video1](https://transcripts.gotomeeting.com/#/s/f2a95eede80e3a5d8f5e0ae35dcea7e2242a5d04659ccef6fd91c4ad94fb24c6)<br>
+Recorded Video --> [Click Here for Recorded Video2](https://transcripts.gotomeeting.com/#/s/f2a95eede80e3a5d8f5e0ae35dcea7e2242a5d04659ccef6fd91c4ad94fb24c6)<br>
 
 ------
 
