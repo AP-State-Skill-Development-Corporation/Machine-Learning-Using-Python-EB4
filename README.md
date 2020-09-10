@@ -118,14 +118,29 @@ Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-Sta
 Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
 
 ------
-## Day-06 (08-09-2020):
+## Day-06 (09-09-2020):
 
 ### Topics Covered:
-- Introduction to Decision Tree Regression
-- Logistic Regression
-- Support Vector Machine
+- Introduction to Decision Tree
+- Terminology related to Decision Trees
+- Types of Decision Trees
+- Decision Trees Classifier
 
 ### Materials
-Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day05_08-09-2020/08-09-2020%20Day-5.ipynb)<br>
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/tree/master/Day6%20%209-9-2020)<br>
 Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
+
+------
+## Day-07 (09-09-2020):
+
+### Topics Covered:
+- Decision Tree Regressor
+- Random Forest Algorithm
+
+### Materials
+Jupyter Notebook --> [Click Here for Jupyter Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB4/blob/master/Day7%2010-9-2020/Day7%20%2010-9-2020(Random%20Forest).ipynb)<br>
+Recorded Video --> [Click Here for Recorded Video](https://transcripts.gotomeeting.com/#/s/35a8a443d0662d8f1d2af6d078fb55fc01764db839834d2869a440ce45c21a11)<br>
+
+------
+
 
