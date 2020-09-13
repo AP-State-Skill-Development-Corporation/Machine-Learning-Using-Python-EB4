@@ -145,5 +145,25 @@ Recorded Video --> [Click Here for Recorded Video1](https://transcripts.gotomeet
 Recorded Video --> [Click Here for Recorded Video2](https://transcripts.gotomeeting.com/#/s/f2a95eede80e3a5d8f5e0ae35dcea7e2242a5d04659ccef6fd91c4ad94fb24c6)<br>
 
 ------
+## Day08 Unsupervised Learning and Clustering (11-Sept-2020)
+1. Unsupervised Learning
+2. Clustering
+3. KMeans CLustering
+4. Applications of Clustering
+
+***************************
+## Day09 Dimensionality Reduction (12-Sept-2020)
+### Discussed Concepts:
+
+1. Dimensionality reduction
+1. Principal Component Analysis (PCA)
+
+### Day09 Jupyter Notebook [[.ipynb format]](Day09_12Sept2020/Dimensionality_Reduction_on_Wine_Data.ipynb), [[.pdf format]](Day09_12Sept2020/Dimensionality_Reduction_on_Wine_Data.pdf)
+### [[Day09_Slides]](Day09_12Sept2020/Dimensionality_Reduction_Slides.pdf)
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/f82df285042b1f61e63352646517f266566341207a053ebd4898bdf70e48765f)
+
+******************
+
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
 
 
