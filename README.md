@@ -11,12 +11,12 @@ This repository consists of all the files, resources, and recorded session links
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
-
+<!-----
 #### Provider your valuable Feedback → [[Click Here to Provide]](https://forms.gle/yAbRNecQ97BzGLbT9)
 
 ### Instructions for attendance
 
-Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
+Everyone should compulsory follow the below instruction in order to get the attendance  Certificate
 
 1. Login format **`rollnumber-name-college`**
 2. Don't give spaces in roll number or shorcut of your roll number
@@ -24,7 +24,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`120/150`** minutes should attend in **`150/180 minutes`** session with same login format
 
-<!-----
+
 ******************************
 Reference purpose follow this below things
 
